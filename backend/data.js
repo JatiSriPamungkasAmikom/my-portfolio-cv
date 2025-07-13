@@ -12,6 +12,7 @@ const educationHistory = [
     major: "MIPA",
   },
 ];
+
 const skills = [
   { name: "Vue.js", level: "Mahir" },
   { name: "JavaScript", level: "Mahir" },
@@ -22,6 +23,7 @@ const skills = [
   { name: "Git & GitHub", level: "Mahir" },
   { name: "HTML5 & CSS3", level: "Mahir" },
 ];
+
 const projects = [
   {
     title: "Website Toko Online",
